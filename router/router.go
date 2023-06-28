@@ -1,7 +1,7 @@
 package router
 
 import (
-	"go-project-template/controller"
+	"go-log-generator/controller"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

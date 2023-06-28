@@ -1,4 +1,4 @@
-module go-project-template
+module go-log-generator
 
 go 1.19
 

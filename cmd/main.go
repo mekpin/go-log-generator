@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go-project-template/config"
-	"go-project-template/router"
+	"go-log-generator/config"
+	"go-log-generator/router"
+
 	"net/http"
 
 	"github.com/gin-gonic/gin"
